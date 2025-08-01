@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyas Lingwal</h1>
-<h3 align="center">A passionate Data science enthusiast currently leaning Frontend</h3>
+<h3 align="center">A passionate Data science enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaslingwal&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaslingwal" /> </p>
 
