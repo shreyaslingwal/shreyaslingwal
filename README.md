@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Dynamic Header with Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Shreyas+Lingwal;Data+Science+Enthusiast+%F0%9F%9A%80;Machine+Learning+Developer+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=false&width=700&height=60&lines=Hi+👋,+I'm+Shreyas+Lingwal;Data+Science+Enthusiast+🚀;Machine+Learning+Developer+🤖)](https://git.io/typing-svg)
 
 <!-- Animated Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
