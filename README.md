@@ -1,14 +1,7 @@
 <div align="center">
-  
-<!-- Header Section -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=5000&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Hi+👋,+I'm+Shreyas+Lingwal" alt="Name"/>
-</h1>
 
-<h3>🚀 Data Science Enthusiast | 🤖 Machine Learning Developer</h3>
-
-<!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Stylish Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6366f1&height=200&section=header&text=Shreyas%20Lingwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20Deep%20Learning%20Enthusiast&descSize=18&descAlignY=55&descAlign=50"/>
 
 <!-- Profile Views & Followers Badges -->
 <p>
