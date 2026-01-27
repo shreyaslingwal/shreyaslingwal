@@ -1,28 +1,28 @@
 <div align="center">
   
-<!-- Dynamic Header with Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Shreyas+Lingwal;Data+Science+Enthusiast+%F0%9F%9A%80;Machine+Learning+Developer+%F0%9F%A4%96)](https://git.io/typing-svg)
+<!-- Dynamic Header with Typing Animation - Catppuccin Mocha Colors -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=CBA6F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Shreyas+Lingwal;Data+Science+Enthusiast+%F0%9F%9A%80;Machine+Learning+Developer+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-<!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Animated Wave Banner - Catppuccin Mocha Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:45475a&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=cdd6f4&animation=twinkling&fontAlignY=32"/>
 
-<!-- Profile Views & Followers Badges -->
+<!-- Profile Views & Followers Badges - Catppuccin Colors -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=shreyaslingwal&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=shreyaslingwal&label=Profile%20Views&color=cba6f7&style=for-the-badge" alt="Profile Views"/>
   <a href="https://github.com/shreyaslingwal?tab=followers">
-    <img src="https://img.shields.io/github/followers/shreyaslingwal?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/shreyaslingwal?label=Followers&style=for-the-badge&color=f5c2e7" alt="Followers"/>
   </a>
 </p>
 
-<!-- Animated Social Badges -->
+<!-- Animated Social Badges - Catppuccin Mocha Style -->
 <a href="https://www.linkedin.com/in/shreyaslingwal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" alt="LinkedIn"/>
 </a>
 <a href="mailto:shreyaslingwal9@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e" alt="Gmail"/>
 </a>
 <a href="https://github.com/shreyaslingwal">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-cdd6f4?style=for-the-badge&logo=github&logoColor=1e1e2e" alt="GitHub"/>
 </a>
 
 </div>
@@ -30,7 +30,7 @@
 ---
 
 <!-- About Me Section with Animation -->
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73444a39teleteleportHede.teleportTv56teleportTv6d6f76teleportTv4d6f76696e67s.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 🚀 About Me
 
@@ -58,127 +58,127 @@ const shreyas = {
 <!-- Tech Stack Section -->
 <div align="center">
   
-## �️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-a6e3a1?style=for-the-badge&logo=python&logoColor=1e1e2e)
+![C](https://img.shields.io/badge/C-89b4fa?style=for-the-badge&logo=c&logoColor=1e1e2e)
+![C++](https://img.shields.io/badge/C++-89b4fa?style=for-the-badge&logo=c%2B%2B&logoColor=1e1e2e)
+![JavaScript](https://img.shields.io/badge/JavaScript-f9e2af?style=for-the-badge&logo=javascript&logoColor=1e1e2e)
+![HTML5](https://img.shields.io/badge/HTML5-fab387?style=for-the-badge&logo=html5&logoColor=1e1e2e)
+![CSS3](https://img.shields.io/badge/CSS3-89b4fa?style=for-the-badge&logo=css3&logoColor=1e1e2e)
 
 ### 📊 Data Science & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-fab387?style=for-the-badge&logo=tensorflow&logoColor=1e1e2e)
+![PyTorch](https://img.shields.io/badge/PyTorch-f38ba8?style=for-the-badge&logo=pytorch&logoColor=1e1e2e)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-f9e2af?style=for-the-badge&logo=scikit-learn&logoColor=1e1e2e)
+![Pandas](https://img.shields.io/badge/Pandas-cba6f7?style=for-the-badge&logo=pandas&logoColor=1e1e2e)
+![NumPy](https://img.shields.io/badge/NumPy-89b4fa?style=for-the-badge&logo=numpy&logoColor=1e1e2e)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-94e2d5?style=for-the-badge&logo=matplotlib&logoColor=1e1e2e)
+![Plotly](https://img.shields.io/badge/Plotly-cba6f7?style=for-the-badge&logo=plotly&logoColor=1e1e2e)
+![SciPy](https://img.shields.io/badge/SciPy-89dceb?style=for-the-badge&logo=scipy&logoColor=1e1e2e)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-a6e3a1?style=for-the-badge&logo=mongodb&logoColor=1e1e2e)
+![MySQL](https://img.shields.io/badge/MySQL-89b4fa?style=for-the-badge&logo=mysql&logoColor=1e1e2e)
 
 ### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f38ba8?style=for-the-badge&logo=git&logoColor=1e1e2e)
+![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=for-the-badge&logo=github&logoColor=1e1e2e)
+![VS Code](https://img.shields.io/badge/VS_Code-89b4fa?style=for-the-badge&logo=visual-studio-code&logoColor=1e1e2e)
+![Jupyter](https://img.shields.io/badge/Jupyter-fab387?style=for-the-badge&logo=jupyter&logoColor=1e1e2e)
+![Google Colab](https://img.shields.io/badge/Colab-f9e2af?style=for-the-badge&logo=google-colab&logoColor=1e1e2e)
+![Kaggle](https://img.shields.io/badge/Kaggle-89dceb?style=for-the-badge&logo=kaggle&logoColor=1e1e2e)
 
 </div>
 
 ---
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats Section - Catppuccin Mocha Theme -->
 <div align="center">
   
 ## 📊 GitHub Statistics
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyaslingwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaslingwal&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyaslingwal&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaslingwal&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaslingwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaslingwal&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages"/>
 
 </div>
 
 ---
 
-<!-- Activity Graph -->
+<!-- Activity Graph - Catppuccin Mocha Colors -->
 <div align="center">
   
 ## 📈 Contribution Graph
 
-[![Shreyas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyaslingwal&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shreyas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyaslingwal&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- Trophies Section -->
+<!-- Trophies Section - Catppuccin Mocha -->
 <div align="center">
   
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shreyaslingwal&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=shreyaslingwal&theme=catppuccin_mocha&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" alt="Trophy" />
 
 </div>
 
 ---
 
-<!-- Featured Projects -->
+<!-- Featured Projects - Catppuccin Mocha Theme -->
 <div align="center">
   
 ## 📌 Featured Projects
 
 <a href="https://github.com/shreyaslingwal/Deep-Reinforcement-Learning">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaslingwal&repo=Deep-Reinforcement-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaslingwal&repo=Deep-Reinforcement-Learning&theme=catppuccin_mocha&hide_border=true"/>
 </a>
 <a href="https://github.com/shreyaslingwal/Airline_recommendation">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaslingwal&repo=Airline_recommendation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaslingwal&repo=Airline_recommendation&theme=catppuccin_mocha&hide_border=true"/>
 </a>
 <a href="https://github.com/shreyaslingwal/CIFAR-10_dataset-project">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaslingwal&repo=CIFAR-10_dataset-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaslingwal&repo=CIFAR-10_dataset-project&theme=catppuccin_mocha&hide_border=true"/>
 </a>
 <a href="https://github.com/shreyaslingwal/Insurance-Prediction">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaslingwal&repo=Insurance-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaslingwal&repo=Insurance-Prediction&theme=catppuccin_mocha&hide_border=true"/>
 </a>
 
 </div>
 
 ---
 
-<!-- Random Dev Quote -->
+<!-- Random Dev Quote - Catppuccin Theme -->
 <div align="center">
   
 ## 💡 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
 </div>
 
 ---
 
-<!-- Connect Section -->
+<!-- Connect Section - Catppuccin Mocha Colors -->
 <div align="center">
   
 ## 🤝 Let's Connect!
 
 <p>
   <a href="https://www.linkedin.com/in/shreyaslingwal/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" alt="LinkedIn"/>
   </a>
   <a href="mailto:shreyaslingwal9@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e" alt="Gmail"/>
   </a>
   <a href="https://github.com/shreyaslingwal">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-cdd6f4?style=for-the-badge&logo=github&logoColor=1e1e2e" alt="GitHub"/>
   </a>
 </p>
 
@@ -199,17 +199,17 @@ _If the snake doesn't appear, [run the workflow manually](https://github.com/shr
 
 ---
 
-<!-- Footer -->
+<!-- Footer - Catppuccin Mocha Theme -->
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:45475a&height=120&section=footer"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Made%20with-💜-cba6f7?style=for-the-badge" alt="Made with Love"/>
 </p>
 
 **⭐ Star my repos if you find them interesting! ⭐**
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) - Catppuccin Mocha Theme -->
