@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Stylish Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6366f1&height=200&section=header&text=Shreyas%20Lingwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20Deep%20Learning%20Enthusiast&descSize=18&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6366f1&height=200&section=header&text=Shreyas%20Lingwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20|%20Deep%20Learning%20Enthusiast&descSize=18&descAlignY=55&descAlign=50"/>
 
 <!-- Profile Views & Followers Badges -->
 <p>
