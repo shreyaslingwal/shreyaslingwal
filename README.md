@@ -126,7 +126,7 @@ const shreyas = {
   
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=shreyaslingwal&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shreyaslingwal&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -191,11 +191,9 @@ const shreyas = {
   
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyaslingwal/shreyaslingwal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyaslingwal/shreyaslingwal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shreyaslingwal/shreyaslingwal/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/shreyaslingwal/shreyaslingwal/output/github-snake-dark.svg" alt="Snake animation" />
+
+_If the snake doesn't appear, [run the workflow manually](https://github.com/shreyaslingwal/shreyaslingwal/actions/workflows/snake.yml)_
 
 </div>
 
