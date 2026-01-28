@@ -98,7 +98,7 @@ const shreyas = {
 
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyaslingwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaslingwal&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=shreyaslingwal&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak"/>
 </p>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaslingwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" alt="Top Languages"/>
@@ -118,12 +118,14 @@ const shreyas = {
 
 ---
 
-<!-- Trophies Section -->
+<!-- Snake Animation -->
 <div align="center">
   
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
-<img src="https://github-profile-trophy.vercel.app/?username=shreyaslingwal&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" alt="Trophy" />
+<img src="https://raw.githubusercontent.com/shreyaslingwal/shreyaslingwal/output/github-snake-dark.svg" alt="Snake animation" />
+
+_If the snake doesn't appear, [run the workflow manually](https://github.com/shreyaslingwal/shreyaslingwal/actions/workflows/snake.yml)_
 
 </div>
 
@@ -151,17 +153,6 @@ const shreyas = {
 
 ---
 
-<!-- Random Dev Quote -->
-<div align="center">
-  
-## 💡 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 <!-- Connect Section -->
 <div align="center">
   
@@ -183,19 +174,6 @@ const shreyas = {
 
 ---
 
-<!-- Snake Animation -->
-<div align="center">
-  
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/shreyaslingwal/shreyaslingwal/output/github-snake-dark.svg" alt="Snake animation" />
-
-_If the snake doesn't appear, [run the workflow manually](https://github.com/shreyaslingwal/shreyaslingwal/actions/workflows/snake.yml)_
-
-</div>
-
----
-
 <!-- Footer -->
 <div align="center">
   
@@ -204,6 +182,11 @@ _If the snake doesn't appear, [run the workflow manually](https://github.com/shr
 <p>
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
 </p>
+
+<!-- Random Dev Quote -->
+## 💡 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 **⭐ Star my repos if you find them interesting! ⭐**
 
